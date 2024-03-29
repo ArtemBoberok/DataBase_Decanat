@@ -1,0 +1,31 @@
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\bin\Debug\DataBase.exe.config
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\bin\Debug\DataBase.exe
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\bin\Debug\DataBase.pdb
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.exe
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\177-22\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\177-22\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\177-22\Desktop\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmGroup.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmPredmet.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmStudent.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmVedomost.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\Interop.Office.dll
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmAddBall.resources
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmAbout.resources
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\Interop.Office.dll
+X:\МДК.01.01 Разр. прог. мод\Classroom work\DataBase\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
+C:\Users\177-22\Desktop\DataBase\DataBase\obj\Debug\DataBase.Forms.fmAuthorization.resources
